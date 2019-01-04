@@ -1,0 +1,15 @@
+GUI -
+	java.awt.*	: 현재 윈도우 gui 컴포턴트 값을 그대로 적용 
+	javax.swing.*  : 확장 gui를 구현한다.
+	javafx  : java lib + java gui + java script
+	
+=======================================================================
+	component
+		1) visual component : button, check, text component 등 
+		2) menu component : menu item -> menu -> menu bar
+		3) dialog : file dialog, color dialog
+		
+			frame -> panel -> vc, mc, dialog add
+			(layout : 배치)
+			
+vnffpdl76 
